@@ -26,16 +26,16 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 <img src='Documentation/welcome.PNG' height=400>
 
 ### Login Screen
-<img src='Documentation/login.png' height=400>
+<img src='Documentation/login.PNG' height=400>
 
 ### Sign Up Screen
-<img src='Documentation/signup.png' height=400>
+<img src='Documentation/signup.PNG' height=400>
 
 ### Chat Screen
-<img src='Documentation/chat.png' height=400>
+<img src='Documentation/chat.PNG' height=400>
 
 ### Chat Screen with Keyboard
-<img src='Documentation/chatKeyboard.png' height=400>
+<img src='Documentation/chatKeyboard.PNG' height=400>
 
 ## Constants
 ```
